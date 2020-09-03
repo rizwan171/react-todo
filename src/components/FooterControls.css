@@ -1,0 +1,21 @@
+.footer-controls {
+  flex: 1;
+  display: flex;
+  background: #FFF;
+}
+
+.counter {
+  /* flex: 1; */
+  margin: auto 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.mid-controls {
+  margin: auto;
+}
+
+.filter-button {
+  background: #AAA;
+  border: none;
+}

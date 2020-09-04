@@ -7,14 +7,14 @@
 ## About <a name = "about"></a>
 Here we have my todo list application. Built with React.js, this was my first introductory project to the framework.
 
-###General functionality includes:
+### General functionality includes:
 - Adding Todos
 - Removing Todos
 - Filtering Todos on completion status
 
 The initial todo list is populated with 5 results from https://jsonplaceholder.typicode.com/todos. Along with this being my first React project, this was the first time I used the Fetch API to consume an API.
 
-###Core Concepts:
+### Core Concepts:
 - React.js State and Props
 - Splitting web documents into components
 - Handling events between parent and child components

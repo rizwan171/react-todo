@@ -7,6 +7,12 @@
 ## About <a name = "about"></a>
 Here we have my todo list application. Built with React.js, this was my first introductory project to the framework.
 
+<div align="center">
+
+  <img src="app_screenshot.png" style="height:650px" />
+
+</div>
+
 ### General functionality includes:
 - Adding Todos
 - Removing Todos
